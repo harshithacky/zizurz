@@ -388,7 +388,7 @@ footer{
         order: 1;
     }
     .contact-content p{
-        font-size: .9rem;
+        font-size: 1.1rem;
         line-height: 1.5rem;
         letter-spacing: 1px;
     }
@@ -423,6 +423,6 @@ footer{
     }
 
     .lower-image{
-        top: 11.4px;
+        top: 9.8px;
     }
 }
