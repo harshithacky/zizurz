@@ -394,7 +394,7 @@ footer{
     }
 
     .lower-image{
-        top: 15px;
+        top: 14px;
     }
 
     .footer-container{
@@ -413,7 +413,7 @@ footer{
     
 }
 
-@media only screen and (max-width:350px){
+@media only screen and (max-width:370px){
     .banner h1{
         font-size:1.8rem;
     }
@@ -423,6 +423,6 @@ footer{
     }
 
     .lower-image{
-        top: 9.8px;
+        top: 10px;
     }
 }
